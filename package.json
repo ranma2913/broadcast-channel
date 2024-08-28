@@ -115,7 +115,7 @@
     "typescript": "3.4.3",
     "uglifyjs-webpack-plugin": "2.1.2",
     "watchify": "3.11.1",
-    "webpack": "4.30.0",
+    "webpack": "5.94.0",
     "webpack-cli": "3.3.0"
   },
   "browser": {
